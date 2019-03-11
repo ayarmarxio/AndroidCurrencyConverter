@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="spinner_title">Currency</string>
+    <string-array name="currency_array">
+        <item>DKK</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+
+    </string-array>
+
+</resources>
